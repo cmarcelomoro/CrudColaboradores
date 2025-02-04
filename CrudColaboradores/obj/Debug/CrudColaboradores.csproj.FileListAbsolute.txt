@@ -1,0 +1,13 @@
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\bin\Debug\CrudColaboradores.exe.config
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\bin\Debug\CrudColaboradores.exe
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\bin\Debug\CrudColaboradores.pdb
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.csproj.AssemblyReference.cache
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.Cadastro.resources
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.Menu.resources
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.Properties.Resources.resources
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.csproj.GenerateResource.cache
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.csproj.CoreCompileInputs.cache
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.exe
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.pdb
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.Listagem.resources
+C:\Users\marcc\source\repos\CrudColaboradores\CrudColaboradores\obj\Debug\CrudColaboradores.Edicao.resources
